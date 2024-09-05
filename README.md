@@ -1,6 +1,6 @@
 # Signup, Login with Email Verification Tutorial
 
-Full video tutorial [here]([url](https://youtu.be/uZGuwX3St_c?si=jIITQc20dXuGoOAP))
+Full video tutorial [here](https://youtu.be/uZGuwX3St_c?si=jIITQc20dXuGoOAP)
 
 This repository contains a tutorial on implementing user signup, login, and email verification using Spring Boot.
 
